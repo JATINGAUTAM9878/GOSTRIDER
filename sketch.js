@@ -6,8 +6,8 @@ function preload (){
   PlayerImage = loadAnimation(
   "Run/14.png","Run/15.png","Run/16.png","Run/17.png","Run/18.png","Run/19.png")
 bgImage = loadImage("BG/BG.png")
-treeImage = loadImage("deadBush.png")
-SkeletonImage = loadImage("skeleton.png")
+treeImage = loadImage("DeadBush.png")
+SkeletonImage = loadImage("Skeleton.png")
   }
 
 function setup() {
